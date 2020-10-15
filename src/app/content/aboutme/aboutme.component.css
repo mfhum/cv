@@ -1,0 +1,49 @@
+.title {
+  font-size: 5rem;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+  text-decoration: underline;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+  font-size: 5rem;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+  text-decoration: underline;
+}
+span {
+  color: #ffdf2b;
+}
+
+.subTitle {
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+  font-size: 2rem;
+}
+
+.startingText {
+  font-size: 1.5rem;
+  font-family: "Oswald", sans-serif;
+  color: #696969;
+}
+
+.text {
+  font-size: 1rem;
+  font-family: "Oswald", sans-serif;
+  color: #696969;
+}
+
+.image {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 250px;
+}
+.content {
+  bottom: 300px;
+}

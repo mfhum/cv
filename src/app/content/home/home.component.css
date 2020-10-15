@@ -1,0 +1,28 @@
+.title-section {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 94vh;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-content: center;
+}
+.title {
+  font-size: 20rem;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+}
+.title span {
+  color: #ffdf2b;
+}
+.added {
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+  letter-spacing: 1rem;
+}
